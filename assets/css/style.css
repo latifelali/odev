@@ -44,12 +44,14 @@ h2 {
 }
 
 .hero-left {
+    margin: 40px;
     line-height: 1rem;
     float: left;
     margin-top: 160px;
 }
 
 .hero-right {
+    margin-right: 100px;
     margin-top: -50px;
     float: right;
 }
