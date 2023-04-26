@@ -67,8 +67,9 @@ h2{
   }
 
 .hero-uppertext{
+    font-weight: lighter;
     color:#03045E;
-    font-size: 28px;
+    font-size: 24px;
 }
 .hero-text{
     color:#03045E;
