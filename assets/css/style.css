@@ -53,6 +53,8 @@ h2{
 }
 
 .cv-button{
+    width: 6rem;
+    height: 3rem;
     border: 1px solid ;
     background-color:#ffffff00;
     box-shadow: 5px 5px #F5EE84;
